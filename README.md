@@ -5,7 +5,7 @@
 * 多线程
 * IO
 * 网络编程
-* 设计模式
+* [设计模式](https://github.com/crfmoon/Android-Notebook/blob/master/doc/java篇/设计模式.md)
 * JVM
 
 #### Android
